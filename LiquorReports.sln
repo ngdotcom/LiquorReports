@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiquorReports", "LiquorReports\LiquorReports.csproj", "{F79CE23D-0DEC-4F21-AEB8-08A3B896C916}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiquorLibrary", "LiquorLibrary\LiquorLibrary.csproj", "{517E2BA0-9212-4B10-8A70-0B5AC2C1AFAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F79CE23D-0DEC-4F21-AEB8-08A3B896C916}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F79CE23D-0DEC-4F21-AEB8-08A3B896C916}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F79CE23D-0DEC-4F21-AEB8-08A3B896C916}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F79CE23D-0DEC-4F21-AEB8-08A3B896C916}.Release|Any CPU.Build.0 = Release|Any CPU
+		{517E2BA0-9212-4B10-8A70-0B5AC2C1AFAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{517E2BA0-9212-4B10-8A70-0B5AC2C1AFAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{517E2BA0-9212-4B10-8A70-0B5AC2C1AFAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{517E2BA0-9212-4B10-8A70-0B5AC2C1AFAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1314E22E-98E0-4FEE-AB50-9F5CE2B7AE1B}
+	EndGlobalSection
+EndGlobal

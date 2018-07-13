@@ -1,0 +1,10 @@
+C:\Users\ngdotcom\source\repos\LiquorReports\LiquorReports\bin\Debug\LiquorReports.exe.config
+C:\Users\ngdotcom\source\repos\LiquorReports\LiquorReports\bin\Debug\LiquorReports.exe
+C:\Users\ngdotcom\source\repos\LiquorReports\LiquorReports\bin\Debug\LiquorReports.pdb
+C:\Users\ngdotcom\source\repos\LiquorReports\LiquorReports\obj\Debug\LiquorReports.csprojResolveAssemblyReference.cache
+C:\Users\ngdotcom\source\repos\LiquorReports\LiquorReports\obj\Debug\LiquorReports.Form1.resources
+C:\Users\ngdotcom\source\repos\LiquorReports\LiquorReports\obj\Debug\LiquorReports.Properties.Resources.resources
+C:\Users\ngdotcom\source\repos\LiquorReports\LiquorReports\obj\Debug\LiquorReports.csproj.GenerateResource.Cache
+C:\Users\ngdotcom\source\repos\LiquorReports\LiquorReports\obj\Debug\LiquorReports.csproj.CoreCompileInputs.cache
+C:\Users\ngdotcom\source\repos\LiquorReports\LiquorReports\obj\Debug\LiquorReports.exe
+C:\Users\ngdotcom\source\repos\LiquorReports\LiquorReports\obj\Debug\LiquorReports.pdb
